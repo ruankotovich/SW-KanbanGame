@@ -1,0 +1,3 @@
+Calculator - Ação:500
+Faça uma função que <red>receba duas strings</font> e um caracter que retorna o resultado de uma operação. <red>Você deve validar as strings</font> para, caso elas não possuírem valores numéricos, <red>a função lançar uma exceção e parar a execução</font>. A seguida as strings devem ser convertidas em seus valores correspondentes. <red>Você deve verificar o caracter para determinar qual operação será realizada</font>: '+' para soma, '-' para subtração, '*' para multiplicação, '/' para divisão e '^' para potência. <blue>No caso do caracter não ser válido, a função deve lançar outra exceção.</font>
+Essa atividade custa <red>R$ 500,00</font> por hora.
